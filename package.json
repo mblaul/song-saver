@@ -18,7 +18,7 @@
   "homepage": "https://github.com/mblaul/song-saver#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "express-sesssion": "^1.15.5",
     "npm": "^6.0.0",
     "request": "^2.85.0"
